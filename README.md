@@ -16,4 +16,5 @@ Version 1.1.0 released on 10 Oct 2024.
 	• Updated camera to improve support for small models.
 	• Fixed transparency and clipping slider breaking in some situations.
 	• Fixed support for RecommendedDisplayCIELabValue in DICOM-Encapsulated STLs.
-	• Fixed models sometimes shifting when merging and
+	• Fixed models sometimes shifting when merging and splitting parts.
+ 	• Fixed initial camera orientation for X3D models.
