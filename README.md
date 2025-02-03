@@ -4,6 +4,18 @@ While the project is currently not open source, this git will serve as a public 
 
 Please report any bugs you encounter and feel free to add any feature requests.
 
+Version 1.2.0 released on 4 Feb 2025
+
+	• Added instancing system toggle, allowing models opened through file association to be imported into an already open instance of the viewer.
+	• Added drag-and-drop file importing.
+	• Added "delete" hotkey for removing selected models and parts from the viewer.
+	• Added option to rotate camera around the mouse's starting position on the model. This is off by default.
+	• Updated application icon and updated copyright information.
+	• Fixed initial orientation of imported models to be consistent with global coordinate system of source files.
+	• Fixed update checker not checking for updates consistently.
+	• Fixed names and materials not loading correctly when several 3MF files are batch imported.
+	• Fixed preset colors not loading correctly for compatible STL files.
+
 Version 1.1.0 released on 10 Oct 2024.
 
 	• Added 3MF support (Core Specification support with limited support for the Material and Properties extension).
