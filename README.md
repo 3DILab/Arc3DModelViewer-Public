@@ -1,6 +1,6 @@
 # Arc 3D Model Viewer
 
-While the project is currently not open source, this git will serve as a public issue tracker for Arc 3D Model Viewer https://www.rchsd.org/programs-services/3d-innovations-lab/research-projects/ar3dmodelcviewer/
+While the project is currently not open source, this git will serve as a public issue tracker for Arc 3D Model Viewer https://www.rchsd.org/programs-services/3d-innovations-lab/research-projects/arc3dmodelviewer/
 
 Please report any bugs you encounter and feel free to add any feature requests.
 
