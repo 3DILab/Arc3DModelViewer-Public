@@ -4,6 +4,14 @@ While the project is currently not open source, this git will serve as a public 
 
 Please report any bugs you encounter and feel free to add any feature requests.
 
+Version 1.3.0 released on 28 Feb 2025
+
+	• Updated error reporting when importing an invalid model.
+	• Updated layout for help window to support additional tutorials.
+	• Fixed crash which can result from rotating the camera based on the mouse position while the clipping plane is active.
+	• Fixed axis indicator not being hidden under certain conditions.
+	• Fixed progress tracker prematurely disappearing when loading models in batches.
+ 
 Version 1.2.0 released on 4 Feb 2025
 
 	• Added instancing system toggle, allowing models opened through file association to be imported into an already open instance of the viewer.
